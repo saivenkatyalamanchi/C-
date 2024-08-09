@@ -5,7 +5,7 @@ using namespace std;
 void printSubsets(string str, string subset){
 
         if(str.size() == 0){
-                cout << subset << endl;
+                cout << subset << " ";
                 return;
         }
         char ch = str[0];
@@ -16,7 +16,7 @@ void printSubsets(string str, string subset){
 }
 
 int main(){
-        string str = "abc";
+        string str = "abcde";
         string subset = "";
         printSubsets(str,subset);
         return 0;
