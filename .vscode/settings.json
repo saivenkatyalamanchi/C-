@@ -1,14 +1,15 @@
 {
         "files.associations": {
-                "iostream": "cpp",
-                "__bit_reference": "cpp",
-                "ios": "cpp",
-                "istream": "cpp",
-                "ostream": "cpp",
-                "sstream": "cpp",
-                "streambuf": "cpp",
-                "string_view": "cpp",
-                "tuple": "cpp",
-                "variant": "cpp"
+            "iostream": "cpp",
+            "__bit_reference": "cpp",
+            "ios": "cpp",
+            "istream": "cpp",
+            "ostream": "cpp",
+            "sstream": "cpp",
+            "streambuf": "cpp",
+            "string_view": "cpp",
+            "tuple": "cpp",
+            "variant": "cpp",
+            "vector": "cpp"
         }
 }
